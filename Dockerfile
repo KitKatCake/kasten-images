@@ -7,4 +7,5 @@
 #FROM gcr.io/kasten-images/dashboardbff:5.5.7
 #FROM gcr.io/kasten-images/vbrintegrationapi:5.5.7
 #FROM gcr.io/kasten-images/executor:5.5.7
-FROM gcr.io/kasten-images/cephtool:5.5.7
+#FROM gcr.io/kasten-images/cephtool:5.5.7
+FROM gcr.io/kasten-images/frontend:5.5.7
