@@ -5,4 +5,5 @@
 #FROM gcr.io/kasten-images/crypto:5.5.7
 #FROM gcr.io/kasten-images/bloblifecyclemanager:5.5.7
 #FROM gcr.io/kasten-images/dashboardbff:5.5.7
-FROM gcr.io/kasten-images/vbrintegrationapi:5.5.7
+#FROM gcr.io/kasten-images/vbrintegrationapi:5.5.7
+FROM gcr.io/kasten-images/executor:5.5.7
