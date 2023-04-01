@@ -10,4 +10,5 @@
 #FROM gcr.io/kasten-images/cephtool:5.5.7
 #FROM gcr.io/kasten-images/frontend:5.5.7
 #FROM gcr.io/kasten-images/emissary:5.5.7
-FROM gcr.io/kasten-images/init:5.5.7
+#FROM gcr.io/kasten-images/init:5.5.7
+FROM gcr.io/kasten-images/kanister:5.5.7
