@@ -13,4 +13,5 @@
 #FROM gcr.io/kasten-images/init:5.5.7
 #FROM gcr.io/kasten-images/kanister:5.5.7
 #FROM gcr.io/kasten-images/datamover:5.5.7
-FROM gcr.io/kasten-images/state:5.5.7
+#FROM gcr.io/kasten-images/state:5.5.7
+FROM gcr.io/kasten-images/admin:5.5.7
